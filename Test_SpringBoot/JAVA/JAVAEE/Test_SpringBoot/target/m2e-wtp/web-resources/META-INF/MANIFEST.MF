@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Test_SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 17435
+Implementation-Vendor-Id: com.project.fubuki
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Test_SpringBoot
+Created-By: Maven Integration for Eclipse
+
